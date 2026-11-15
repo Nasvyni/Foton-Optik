@@ -1,7 +1,7 @@
 # Foton-Optik
 A Visual Novel about love and physics' reaping for it subject's sowing // 4Haven
 
--
+-------------------
 
 Alawiye menyukai Angel, dan mungkin jika Ia mencoba, Angel bisa mengganti pikirannya tentang Alawiye? Gilang sudah beramanat padanya, dan Ia juga tak ingin over-use metafora fisika terlalu banyak.
 
