@@ -11,8 +11,11 @@ creds --------------------------------------------------------------------------
 
 photos:
 semak-semak = jeswin on magnific.com
+
 kelas = https://pjkr.upi.edu/content/isi?id=28
+
 lorong = https://kd-cibiru.upi.edu/index.php/component/content/article/lorong-kampus-deng...
+
 jalan = https://www.ulasbandung.com/wisata/144924835/5-spot-foto-aesthetic-di-bandung-ya...
 
 danau = https://www.gotravelly.com/blog/danau-di-bekasi-wisata-air-tersembunyi-yang-haru...
