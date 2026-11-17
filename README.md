@@ -1,5 +1,5 @@
 # Foton-Optik
-A Visual Novel about love and physics' reaping for it subject's sowing // 4Haven
+A Visual Novel about love and physics' reaping for it subject's sowing // 4 Haven Game Jam!
 
 -------------------
 
